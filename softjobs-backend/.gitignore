@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+package-lock.json
+
+# Variables de entorno (CRÍTICO)
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de VS Code (opcional)
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.temp
